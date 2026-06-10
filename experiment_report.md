@@ -18,9 +18,9 @@ Chạy `agent_simulation.py` với cùng câu hỏi:
 
 ---
 
-## 2. Phân tích và nhận xét
+## 2. Phan tich va nhan xet
 
-### Tại sao Agent trả lời sai khi dùng Garbage Data?
+### Tai sao Agent tra loi sai khi dung Garbage Data?
 
 Agent sử dụng quy tắc đơn giản: lọc các bản ghi có category là `electronics`,
 sau đó chọn sản phẩm có `price` lớn nhất. Trong Garbage Data, bản ghi
